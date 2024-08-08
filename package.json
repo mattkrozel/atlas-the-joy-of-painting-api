@@ -11,5 +11,12 @@
     "url": "atlas-the-joy-of-painting-api"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.38",
+    "csv": "^6.3.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
 }

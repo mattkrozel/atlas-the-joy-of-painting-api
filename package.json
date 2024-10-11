@@ -1,0 +1,19 @@
+{
+  "name": "atlas-the-joy-of-painting-api",
+  "version": "1.0.0",
+  "description": "ETL joy of painting",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "atlas-the-joy-of-painting-api"
+  },
+  "author": "matt krozel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

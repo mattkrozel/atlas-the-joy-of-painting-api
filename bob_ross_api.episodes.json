@@ -1,0 +1,2830 @@
+[{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c0c"
+  },
+  "Title": "Winter Moon",
+  "Date": "February 8 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c0d"
+  },
+  "Title": "Autumn Mountains",
+  "Date": "February 15 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c14"
+  },
+  "Title": "Meadow Lake",
+  "Date": "August 31 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c17"
+  },
+  "Title": "Shades of Gray",
+  "Date": "September 21 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c15"
+  },
+  "Title": "Winter Sun",
+  "Date": "September 7 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c3b"
+  },
+  "Title": "Mountain Waterfall",
+  "Date": "January 2 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c5e"
+  },
+  "Title": "Mountain Glory",
+  "Date": "December 6 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c0e"
+  },
+  "Title": "Peaceful Valley",
+  "Date": "February 22 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c12"
+  },
+  "Title": "Snowfall",
+  "Date": "March 22 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c2c"
+  },
+  "Title": "Hidden Lake",
+  "Date": "March 22 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c2d"
+  },
+  "Title": "Peaceful Waters",
+  "Date": "March 29 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c37"
+  },
+  "Title": "Quiet Woods",
+  "Date": "November 7 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c4c"
+  },
+  "Title": "Secluded Forest",
+  "Date": "May 29 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c56"
+  },
+  "Title": "Secluded Lake",
+  "Date": "October 9 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c66"
+  },
+  "Title": "Hunter's Haven",
+  "Date": "January 30 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c81"
+  },
+  "Title": "Autumn Woods",
+  "Date": "October 8 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c84"
+  },
+  "Title": "Mountain Oval",
+  "Date": "October 29 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c85"
+  },
+  "Title": "Ocean Sunset",
+  "Date": "November 5 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c31"
+  },
+  "Title": "Winter Sawscape",
+  "Date": "September 26 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c36"
+  },
+  "Title": "Cool Waters",
+  "Date": "October 31 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c4d"
+  },
+  "Title": "Snow Trail",
+  "Date": "June 5 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c6a"
+  },
+  "Title": "Majestic Pine",
+  "Date": "February 27 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c45"
+  },
+  "Title": "Autumn Glory",
+  "Date": "March 13 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c54"
+  },
+  "Title": "Blaze of Color",
+  "Date": "July 23 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c5c"
+  },
+  "Title": "Mountain Splendor",
+  "Date": "November 20 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c6e"
+  },
+  "Title": "Northern Lights",
+  "Date": "March 27 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c7a"
+  },
+  "Title": "Mountain by the Sea",
+  "Date": "July 16 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c1d"
+  },
+  "Title": "Lazy River",
+  "Date": "November 2 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c70"
+  },
+  "Title": "Surf's Up",
+  "Date": "May 7 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c0f"
+  },
+  "Title": "Seascape",
+  "Date": "March 1 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c29"
+  },
+  "Title": "The Old Mill",
+  "Date": "March 1 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c38"
+  },
+  "Title": "Northwest Majesty",
+  "Date": "November 14 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c4a"
+  },
+  "Title": "Morning Mist",
+  "Date": "May 15 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c52"
+  },
+  "Title": "Western Expanse",
+  "Date": "July 9 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c55"
+  },
+  "Title": "Winter Cabin",
+  "Date": "October 2 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c5d"
+  },
+  "Title": "Lake by Mountain",
+  "Date": "November 27 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c6d"
+  },
+  "Title": "Lonely Retreat",
+  "Date": "March 20 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c7b"
+  },
+  "Title": "Mountain Hideaway",
+  "Date": "July 23 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c7f"
+  },
+  "Title": "Secluded Bridge",
+  "Date": "September 24 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c16"
+  },
+  "Title": "Ebony Sea",
+  "Date": "September 14 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c1b"
+  },
+  "Title": "Reflections",
+  "Date": "October 19 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c34"
+  },
+  "Title": "Cabin in the Woods",
+  "Date": "October 17 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c3e"
+  },
+  "Title": "Winter Stillness",
+  "Date": "January 23 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c42"
+  },
+  "Title": "Arizona Splendor",
+  "Date": "February 20 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c44"
+  },
+  "Title": "The Windmill",
+  "Date": "March 6 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c46"
+  },
+  "Title": "Indian Girl",
+  "Date": "March 20 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c5f"
+  },
+  "Title": "Grey Winter",
+  "Date": "December 13 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c6c"
+  },
+  "Title": "Mountain Range",
+  "Date": "March 13 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c78"
+  },
+  "Title": "Country Charm",
+  "Date": "July 2 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c1a"
+  },
+  "Title": "Brown Mountain",
+  "Date": "October 12 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c08"
+  },
+  "Title": "Mount McKinley",
+  "Date": "January 11 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c21"
+  },
+  "Title": "Mountain Retreat",
+  "Date": "January 4 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c26"
+  },
+  "Title": "Covered Bridge",
+  "Date": "February 8 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c2b"
+  },
+  "Title": "Rustic Barn",
+  "Date": "March 15 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c2f"
+  },
+  "Title": "Tranquil Valley",
+  "Date": "September 12 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c4b"
+  },
+  "Title": "Whispering Stream",
+  "Date": "May 22 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c51"
+  },
+  "Title": "Country Life",
+  "Date": "July 2 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c7e"
+  },
+  "Title": "Twin Falls",
+  "Date": "September 17 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c86"
+  },
+  "Title": "Triple View",
+  "Date": "November 12 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c22"
+  },
+  "Title": "Blue Moon",
+  "Date": "January 11 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c18"
+  },
+  "Title": "Autumn Splendor",
+  "Date": "September 28 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c09"
+  },
+  "Title": "Ebony Sunset",
+  "Date": "January 18 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c1c"
+  },
+  "Title": "Black & White Seascape",
+  "Date": "October 26 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c1f"
+  },
+  "Title": "Mountain Waterfall",
+  "Date": "November 16 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c33"
+  },
+  "Title": "Warm Summer Day",
+  "Date": "October 10 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c35"
+  },
+  "Title": "Wetlands",
+  "Date": "October 24 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c3f"
+  },
+  "Title": "Quiet Pond",
+  "Date": "January 30 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c41"
+  },
+  "Title": "Bubbling Brook",
+  "Date": "February 13 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c53"
+  },
+  "Title": "Marshlands",
+  "Date": "July 16 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c68"
+  },
+  "Title": "Winter Hideaway",
+  "Date": "February 13 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c71"
+  },
+  "Title": "Red Sunset",
+  "Date": "May 14 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c43"
+  },
+  "Title": "Anatomy of a Wave",
+  "Date": "February 27 1985",
+  "Notes": " Special guest Joyce Ortner"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c4f"
+  },
+  "Title": "Horizons West",
+  "Date": "June 19 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c50"
+  },
+  "Title": "High Chateau",
+  "Date": "June 26 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c58"
+  },
+  "Title": "Mountain Cabin",
+  "Date": "October 23 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c67"
+  },
+  "Title": "Bubbling Mountain Brook",
+  "Date": "February 6 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c6b"
+  },
+  "Title": "Cactus at Sunset",
+  "Date": "March 6 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c77"
+  },
+  "Title": "Mountain Pass",
+  "Date": "June 25 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c19"
+  },
+  "Title": "Black River",
+  "Date": "October 5 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c48"
+  },
+  "Title": "Blue River",
+  "Date": "May 1 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c5a"
+  },
+  "Title": "Misty Waterfall",
+  "Date": "November 6 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c5b"
+  },
+  "Title": "Barn at Sunset",
+  "Date": "November 13 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c60"
+  },
+  "Title": "Dock Scene",
+  "Date": "December 20 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c6f"
+  },
+  "Title": "Winter Evergreens",
+  "Date": "April 30 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c76"
+  },
+  "Title": "Little House by the Road",
+  "Date": "June 18 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c80"
+  },
+  "Title": "Ocean Breeze",
+  "Date": "October 1 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c0b"
+  },
+  "Title": "Quiet Stream",
+  "Date": "February 1 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c20"
+  },
+  "Title": "Final Grace",
+  "Date": "November 23 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c07"
+  },
+  "Title": "A Walk in the Woods",
+  "Date": "January 11 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c0a"
+  },
+  "Title": "Winter Mist",
+  "Date": "January 25 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c13"
+  },
+  "Title": "Final Reflections",
+  "Date": "March 29 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c10"
+  },
+  "Title": "Mountain Lake",
+  "Date": "March 8 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c28"
+  },
+  "Title": "Night Light",
+  "Date": "February 22 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c3c"
+  },
+  "Title": "Twilight Meadow",
+  "Date": "January 9 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c3d"
+  },
+  "Title": "Mountain Blossoms",
+  "Date": "January 16 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c57"
+  },
+  "Title": "Evergreen at Sunset",
+  "Date": "October 16 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c61"
+  },
+  "Title": "Dark Waterfall",
+  "Date": "December 27 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c65"
+  },
+  "Title": "Waterside Way",
+  "Date": "January 23 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c73"
+  },
+  "Title": "Winter Oval",
+  "Date": "May 28 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c7c"
+  },
+  "Title": "Towering Peaks",
+  "Date": "September 3 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c82"
+  },
+  "Title": "Winter Solitude",
+  "Date": "October 15 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c27"
+  },
+  "Title": "Quiet Inlet",
+  "Date": "February 15 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c40"
+  },
+  "Title": "Ocean Sunrise",
+  "Date": "February 6 1985",
+  "Notes": " Special guest Audrey Golden"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c64"
+  },
+  "Title": "Warm Winter Day",
+  "Date": "January 16 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c74"
+  },
+  "Title": "Secluded Beach",
+  "Date": "June 4 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c7d"
+  },
+  "Title": "Cabin at Sunset",
+  "Date": "September 10 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c2a"
+  },
+  "Title": "Campfire",
+  "Date": "March 8 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c2e"
+  },
+  "Title": "Purple Splendor",
+  "Date": "September 5 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c30"
+  },
+  "Title": "Majestic Mountains",
+  "Date": "September 19 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c32"
+  },
+  "Title": "Evening Seascape",
+  "Date": "October 3 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c39"
+  },
+  "Title": "Autumn Days",
+  "Date": "November 21 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c47"
+  },
+  "Title": "Meadow Stream",
+  "Date": "March 27 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c49"
+  },
+  "Title": "Nature's Edge",
+  "Date": "May 8 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c4e"
+  },
+  "Title": "Arctic Beauty",
+  "Date": "June 12 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c62"
+  },
+  "Title": "Misty Rolling Hills",
+  "Date": "January 2 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c83"
+  },
+  "Title": "Golden Sunset",
+  "Date": "October 22 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c11"
+  },
+  "Title": "Winter Glow",
+  "Date": "March 15 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c3a"
+  },
+  "Title": "Mountain Challenge",
+  "Date": "November 28 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c69"
+  },
+  "Title": "Foot of the Mountain",
+  "Date": "February 20 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c72"
+  },
+  "Title": "Meadow Road",
+  "Date": "May 21 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c79"
+  },
+  "Title": "Nature's Paradise",
+  "Date": "July 9 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c1e"
+  },
+  "Title": "Black Waterfall",
+  "Date": "November 9 1983"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c23"
+  },
+  "Title": "Bubbling Stream",
+  "Date": "January 18 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c24"
+  },
+  "Title": "Winter Night",
+  "Date": "January 25 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c25"
+  },
+  "Title": "Distant Hills",
+  "Date": "February 1 1984"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c59"
+  },
+  "Title": "Portrait of Sally",
+  "Date": "October 30 1985"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c63"
+  },
+  "Title": "Lakeside Cabin",
+  "Date": "January 9 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c75"
+  },
+  "Title": "Forest Hills",
+  "Date": "June 11 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c8f"
+  },
+  "Title": "Lakeside Path",
+  "Date": "February 11 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c92"
+  },
+  "Title": "Sunset Over the Waves",
+  "Date": "March 4 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb1"
+  },
+  "Title": "Meadow Brook Surprise",
+  "Date": "January 6 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c88"
+  },
+  "Title": "Lakeside Cabin",
+  "Date": "November 26 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca3"
+  },
+  "Title": "Rolling Hills",
+  "Date": "September 2 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c8e"
+  },
+  "Title": "Oval Barn",
+  "Date": "February 4 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c8d"
+  },
+  "Title": "Towering Glacier",
+  "Date": "January 28 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c8a"
+  },
+  "Title": "Country Cabin",
+  "Date": "January 7 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c9e"
+  },
+  "Title": "Tropical Seascape",
+  "Date": "June 24 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8caf"
+  },
+  "Title": "Lost Lake",
+  "Date": "November 25 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc0"
+  },
+  "Title": "Peaceful Reflections",
+  "Date": "May 18 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cbf"
+  },
+  "Title": "Grandpa's Barn",
+  "Date": "May 11 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca1"
+  },
+  "Title": "Mountain in an Oval",
+  "Date": "July 15 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca2"
+  },
+  "Title": "Winter Mountain",
+  "Date": "July 22 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c93"
+  },
+  "Title": "Golden Glow",
+  "Date": "March 11 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cbe"
+  },
+  "Title": "Colors of Nature",
+  "Date": "May 4 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cbd"
+  },
+  "Title": "Splendor of Winter",
+  "Date": "April 27 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c90"
+  },
+  "Title": "Sunset Oval",
+  "Date": "February 18 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c91"
+  },
+  "Title": "Winter Barn",
+  "Date": "February 25 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c94"
+  },
+  "Title": "Roadside Barn",
+  "Date": "March 18 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c9f"
+  },
+  "Title": "Mountain at Sunset",
+  "Date": "July 1 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca9"
+  },
+  "Title": "Peaceful Haven",
+  "Date": "October 14 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8caa"
+  },
+  "Title": "Mountain Exhibition",
+  "Date": "October 21 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cae"
+  },
+  "Title": "Oval Essence",
+  "Date": "November 18 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb2"
+  },
+  "Title": "Mountain Moonlight Oval",
+  "Date": "January 13 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb6"
+  },
+  "Title": "Windy Waves",
+  "Date": "February 10 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cba"
+  },
+  "Title": "Shadow Pond",
+  "Date": "March 9 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c96"
+  },
+  "Title": "Golden Knoll",
+  "Date": "April 29 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c9b"
+  },
+  "Title": "Steep Mountains",
+  "Date": "June 3 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c8c"
+  },
+  "Title": "Hidden Stream",
+  "Date": "January 21 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c95"
+  },
+  "Title": "Happy Accident",
+  "Date": "March 25 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c9a"
+  },
+  "Title": "Black Seascape",
+  "Date": "May 27 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca5"
+  },
+  "Title": "Meadow Brook",
+  "Date": "September 16 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb0"
+  },
+  "Title": "Distant Mountains",
+  "Date": "December 30 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c98"
+  },
+  "Title": "Secluded Mountain",
+  "Date": "May 13 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c9c"
+  },
+  "Title": "Quiet Mountain River",
+  "Date": "June 10 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca8"
+  },
+  "Title": "Hidden Creek",
+  "Date": "October 7 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc4"
+  },
+  "Title": "Fall Stream",
+  "Date": "June 15 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca4"
+  },
+  "Title": "Frozen Solitude",
+  "Date": "September 9 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca6"
+  },
+  "Title": "Evening Sunset",
+  "Date": "September 23 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca7"
+  },
+  "Title": "Mountain View",
+  "Date": "September 30 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc3"
+  },
+  "Title": "Cabin by the Pond",
+  "Date": "June 8 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb7"
+  },
+  "Title": "On a Clear Day",
+  "Date": "February 17 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cbc"
+  },
+  "Title": "Natural Wonder",
+  "Date": "March 23 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc5"
+  },
+  "Title": "Christmas Eve Snow",
+  "Date": "June 22 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c87"
+  },
+  "Title": "Winter Frost",
+  "Date": "November 19 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c9d"
+  },
+  "Title": "Evening Waterfall",
+  "Date": "June 17 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c89"
+  },
+  "Title": "Mountain Stream",
+  "Date": "December 31 1986"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc2"
+  },
+  "Title": "Waves of Wonder",
+  "Date": "June 1 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c97"
+  },
+  "Title": "Mountain Reflections",
+  "Date": "May 6 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ca0"
+  },
+  "Title": "Soft Mountain Glow",
+  "Date": "July 8 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cac"
+  },
+  "Title": "Mountain Summit",
+  "Date": "November 4 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb3"
+  },
+  "Title": "Snowy Solitude",
+  "Date": "January 20 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb5"
+  },
+  "Title": "Graceful Mountains",
+  "Date": "February 3 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc1"
+  },
+  "Title": "Hidden Winter Moon Oval",
+  "Date": "May 25 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb4"
+  },
+  "Title": "Mountain River",
+  "Date": "January 27 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb8"
+  },
+  "Title": "Riverside Escape Oval",
+  "Date": "February 24 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cbb"
+  },
+  "Title": "Misty Forest",
+  "Date": "March 16 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c8b"
+  },
+  "Title": "Daisy Delight",
+  "Date": "January 14 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8c99"
+  },
+  "Title": "Bright Autumn Trees",
+  "Date": "May 20 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cab"
+  },
+  "Title": "Emerald Waters",
+  "Date": "October 28 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cad"
+  },
+  "Title": "Cabin Hideaway",
+  "Date": "November 11 1987"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cb9"
+  },
+  "Title": "Surprising Falls",
+  "Date": "March 2 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc6"
+  },
+  "Title": "Forest Dawn Oval",
+  "Date": "June 29 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cea"
+  },
+  "Title": "Golden Morning Mist",
+  "Date": "August 16 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc9"
+  },
+  "Title": "Peaks of Majesty",
+  "Date": "July 20 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd0"
+  },
+  "Title": "Deep Woods",
+  "Date": "September 28 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc8"
+  },
+  "Title": "Deep Forest Lake",
+  "Date": "July 13 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cca"
+  },
+  "Title": "Two Seasons",
+  "Date": "August 17 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ccb"
+  },
+  "Title": "Nestled Cabin",
+  "Date": "August 24 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf8"
+  },
+  "Title": "Scenic Seclusion",
+  "Date": "February 21 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd5"
+  },
+  "Title": "Mighty Mountain Lake",
+  "Date": "November 2 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d02"
+  },
+  "Title": "Divine Elegance",
+  "Date": "May 2 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce7"
+  },
+  "Title": "Crimson Oval",
+  "Date": "July 26 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf3"
+  },
+  "Title": "Final Embers of Sunlight",
+  "Date": "January 17 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d06"
+  },
+  "Title": "Winter Paradise",
+  "Date": "May 30 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd3"
+  },
+  "Title": "That Time of Year",
+  "Date": "October 19 1988",
+  "Notes": " Special guest Steve Ross (Bob's son"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd7"
+  },
+  "Title": "Golden Mist Oval",
+  "Date": "January 4 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cdc"
+  },
+  "Title": "A Mild Winter's Day",
+  "Date": "February 8 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ced"
+  },
+  "Title": "Double Oval Stream",
+  "Date": "September 6 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf2"
+  },
+  "Title": "Quiet Mountain Lake",
+  "Date": "January 10 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d01"
+  },
+  "Title": "Hazy Day",
+  "Date": "April 25 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd1"
+  },
+  "Title": "High Tide",
+  "Date": "October 5 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cdd"
+  },
+  "Title": "Spectacular Waterfall",
+  "Date": "February 15 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce4"
+  },
+  "Title": "Half Oval Vignette",
+  "Date": "July 5 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf6"
+  },
+  "Title": "Waterfall in the Woods",
+  "Date": "February 7 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf7"
+  },
+  "Title": "Covered Bridge Oval",
+  "Date": "February 14 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d03"
+  },
+  "Title": "Cliffside",
+  "Date": "May 9 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cfd"
+  },
+  "Title": "Valley of Tranquility",
+  "Date": "March 28 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cff"
+  },
+  "Title": "New Day's Dawn",
+  "Date": "April 11 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce3"
+  },
+  "Title": "Mountain Beauty",
+  "Date": "March 29 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ccf"
+  },
+  "Title": "Contemplative Lady",
+  "Date": "September 21 1988",
+  "Notes": " Special guest John Thamm (Bob Ross's former instructor"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ccd"
+  },
+  "Title": "Mountain Mirage",
+  "Date": "September 7 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce8"
+  },
+  "Title": "Autumn Exhibition",
+  "Date": "August 2 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ccc"
+  },
+  "Title": "Wintertime Discovery",
+  "Date": "August 31 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd4"
+  },
+  "Title": "Waterfall Wonder",
+  "Date": "October 26 1988",
+  "Notes": " Footage with Grand Ole Opry regular Hank Snow and announcer Grant Turner"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cdb"
+  },
+  "Title": "Country Time",
+  "Date": "February 1 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd9"
+  },
+  "Title": "Soothing Vista",
+  "Date": "January 18 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd8"
+  },
+  "Title": "Old Place Home",
+  "Date": "January 11 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cdf"
+  },
+  "Title": "Lake View",
+  "Date": "March 1 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ceb"
+  },
+  "Title": "Winter Lace",
+  "Date": "August 23 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce1"
+  },
+  "Title": "Morning Walk",
+  "Date": "March 15 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce6"
+  },
+  "Title": "Mountain Seclusion",
+  "Date": "July 19 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf4"
+  },
+  "Title": "Snowy Morn",
+  "Date": "January 24 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf0"
+  },
+  "Title": "Rippling Waters",
+  "Date": "September 27 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cfb"
+  },
+  "Title": "Winter Elegance",
+  "Date": "March 14 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cfe"
+  },
+  "Title": "Mystic Mountain",
+  "Date": "April 4 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d00"
+  },
+  "Title": "Pastel Winter",
+  "Date": "April 18 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d05"
+  },
+  "Title": "Old Oak Tree",
+  "Date": "May 23 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce2"
+  },
+  "Title": "Nature's Splendor",
+  "Date": "March 22 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf1"
+  },
+  "Title": "Snowfall Magic",
+  "Date": "January 3 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cfa"
+  },
+  "Title": "After the Rain",
+  "Date": "March 7 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce9"
+  },
+  "Title": "Majestic Peaks",
+  "Date": "August 9 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd2"
+  },
+  "Title": "Barn in Snow Oval",
+  "Date": "October 12 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce0"
+  },
+  "Title": "Old Country Mill",
+  "Date": "March 8 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cef"
+  },
+  "Title": "Southwest Serenity",
+  "Date": "September 20 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cde"
+  },
+  "Title": "View From the Park",
+  "Date": "February 22 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cce"
+  },
+  "Title": "Double Oval Fantasy",
+  "Date": "September 14 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cc7"
+  },
+  "Title": "Pathway to Autumn",
+  "Date": "July 6 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cda"
+  },
+  "Title": "Stormy Seas",
+  "Date": "January 25 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8ce5"
+  },
+  "Title": "Absolutely Autumn",
+  "Date": "July 12 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cee"
+  },
+  "Title": "Enchanted Forest",
+  "Date": "September 13 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cfc"
+  },
+  "Title": "Evening's Peace",
+  "Date": "March 21 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d04"
+  },
+  "Title": "Autumn Fantasy",
+  "Date": "May 16 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cd6"
+  },
+  "Title": "Wooded Stream Oval",
+  "Date": "November 9 1988"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cec"
+  },
+  "Title": "Seascape Fantasy",
+  "Date": "August 30 1989"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf5"
+  },
+  "Title": "Camper's Haven",
+  "Date": "January 31 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8cf9"
+  },
+  "Title": "Ebb Tide",
+  "Date": "February 28 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d08"
+  },
+  "Title": "Change of Seasons",
+  "Date": "June 13 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d07"
+  },
+  "Title": "Days Gone By",
+  "Date": "June 6 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d16"
+  },
+  "Title": "Lone Mountain",
+  "Date": "November 21 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d22"
+  },
+  "Title": "Pastel Seascape",
+  "Date": "March 12 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d3d"
+  },
+  "Title": "Footbridge",
+  "Date": "March 24 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d0e"
+  },
+  "Title": "Serenity",
+  "Date": "September 26 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d36"
+  },
+  "Title": "Pretty Autumn Day",
+  "Date": "February 4 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d26"
+  },
+  "Title": "Forest Edge",
+  "Date": "September 10 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d33"
+  },
+  "Title": "Wayside Pond",
+  "Date": "January 14 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d44"
+  },
+  "Title": "Oriental Falls",
+  "Date": "September 29 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d20"
+  },
+  "Title": "Haven in the Valley",
+  "Date": "February 26 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d2e"
+  },
+  "Title": "Falls in the Glen",
+  "Date": "November 5 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d45"
+  },
+  "Title": "Autumn Palette",
+  "Date": "October 6 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d12"
+  },
+  "Title": "By the Sea",
+  "Date": "October 24 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d1e"
+  },
+  "Title": "Dimensions",
+  "Date": "February 12 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d17"
+  },
+  "Title": "Florida's Glory",
+  "Date": "November 28 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d35"
+  },
+  "Title": "Little Home in the Meadow",
+  "Date": "January 28 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d43"
+  },
+  "Title": "Summer in the Mountains",
+  "Date": "September 22 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d18"
+  },
+  "Title": "Autumn Images",
+  "Date": "January 1 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d09"
+  },
+  "Title": "Hidden Delight",
+  "Date": "June 20 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d0a"
+  },
+  "Title": "Double Take",
+  "Date": "June 27 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d14"
+  },
+  "Title": "Blue Winter",
+  "Date": "November 7 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d1b"
+  },
+  "Title": "Countryside Oval",
+  "Date": "January 22 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d1f"
+  },
+  "Title": "Deep Wilderness Home",
+  "Date": "February 19 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d2b"
+  },
+  "Title": "At Dawn's Light",
+  "Date": "October 15 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d41"
+  },
+  "Title": "Not Quite Spring",
+  "Date": "September 8 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d23"
+  },
+  "Title": "Country Creek",
+  "Date": "March 19 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d28"
+  },
+  "Title": "Reflections of Gold",
+  "Date": "September 24 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d40"
+  },
+  "Title": "Enchanted Falls Oval",
+  "Date": "September 1 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d42"
+  },
+  "Title": "Splashes of Autumn",
+  "Date": "September 15 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d19"
+  },
+  "Title": "Hint of Springtime",
+  "Date": "January 8 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d1c"
+  },
+  "Title": "Russet Winter",
+  "Date": "January 29 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d27"
+  },
+  "Title": "Mountain Ridge Lake",
+  "Date": "September 17 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d2d"
+  },
+  "Title": "Toward Day's End",
+  "Date": "October 29 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d3f"
+  },
+  "Title": "Hide-a-Way Cove",
+  "Date": "August 25 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d34"
+  },
+  "Title": "Teton Winter",
+  "Date": "January 21 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d15"
+  },
+  "Title": "Desert Glow",
+  "Date": "November 14 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d21"
+  },
+  "Title": "Wintertime Blues",
+  "Date": "March 5 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d29"
+  },
+  "Title": "Quiet Cove",
+  "Date": "October 1 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d0c"
+  },
+  "Title": "Tranquil Dawn",
+  "Date": "September 12 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d10"
+  },
+  "Title": "Mountain Rhapsody",
+  "Date": "October 10 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d2a"
+  },
+  "Title": "River's Peace",
+  "Date": "October 8 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d31"
+  },
+  "Title": "Winter Bliss",
+  "Date": "November 26 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d1a"
+  },
+  "Title": "Around the Bend",
+  "Date": "January 15 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d0b"
+  },
+  "Title": "Valley View",
+  "Date": "September 5 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d13"
+  },
+  "Title": "Indian Summer",
+  "Date": "October 31 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d0d"
+  },
+  "Title": "Royal Majesty",
+  "Date": "September 19 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d1d"
+  },
+  "Title": "Purple Haze",
+  "Date": "February 5 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d2f"
+  },
+  "Title": "Frozen Beauty in Vignette",
+  "Date": "November 12 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d3a"
+  },
+  "Title": "Icy Lake",
+  "Date": "March 3 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d3e"
+  },
+  "Title": "Snowbound Cabin",
+  "Date": "March 31 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d46"
+  },
+  "Title": "Cypress Swamp",
+  "Date": "October 13 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d0f"
+  },
+  "Title": "Cabin at Trial's End",
+  "Date": "October 3 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d24"
+  },
+  "Title": "Silent Forest",
+  "Date": "March 26 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d37"
+  },
+  "Title": "Mirrored Images",
+  "Date": "February 11 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d3c"
+  },
+  "Title": "Portrait of Winter",
+  "Date": "March 17 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d11"
+  },
+  "Title": "Wilderness Cabin",
+  "Date": "October 17 1990"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d2c"
+  },
+  "Title": "Valley Waterfall",
+  "Date": "October 22 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d39"
+  },
+  "Title": "Graceful Waterfall",
+  "Date": "February 25 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d25"
+  },
+  "Title": "Frosty Winter Morn",
+  "Date": "September 3 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d30"
+  },
+  "Title": "Crimson Tide",
+  "Date": "November 19 1991"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d32"
+  },
+  "Title": "Grey Mountain",
+  "Date": "January 7 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d38"
+  },
+  "Title": "Back-Country Path",
+  "Date": "February 18 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d3b"
+  },
+  "Title": "Rowboat on the Beach",
+  "Date": "March 10 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d4c"
+  },
+  "Title": "In the Stillness of Morning",
+  "Date": "December 1 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d47"
+  },
+  "Title": "Downstream View",
+  "Date": "October 20 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d59"
+  },
+  "Title": "Twilight Beauty",
+  "Date": "March 2 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d50"
+  },
+  "Title": "A Trace of Spring",
+  "Date": "December 29 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d49"
+  },
+  "Title": "Fisherman's Paradise",
+  "Date": "November 3 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d6a"
+  },
+  "Title": "The Magic of Fall",
+  "Date": "June 22 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d54"
+  },
+  "Title": "Tranquil Wooded Stream",
+  "Date": "January 26 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d69"
+  },
+  "Title": "Golden Rays of Sunlight",
+  "Date": "June 15 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d51"
+  },
+  "Title": "An Arctic Winter Day",
+  "Date": "January 5 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d57"
+  },
+  "Title": "Sunset Aglow",
+  "Date": "February 16 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d6b"
+  },
+  "Title": "Glacier Lake",
+  "Date": "June 29 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d71"
+  },
+  "Title": "Mountain Serenity",
+  "Date": "August 10 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d85"
+  },
+  "Title": "Misty Foothills",
+  "Date": "December 28 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d5b"
+  },
+  "Title": "Rustic Winter Woods",
+  "Date": "March 16 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d60"
+  },
+  "Title": "Daybreak",
+  "Date": "April 20 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d62"
+  },
+  "Title": "Sunlight in the Shadows",
+  "Date": "May 4 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d81"
+  },
+  "Title": "Woodgrain View",
+  "Date": "November 30 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d66"
+  },
+  "Title": "Fisherman's Trail",
+  "Date": "May 25 1993",
+  "Notes": " - After painting the canvas to resemble wood Ross paints a landscape with the titular trail plus mountains trees water and shrubbery but no sky."
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d53"
+  },
+  "Title": "Early Autumn",
+  "Date": "January 19 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d5c"
+  },
+  "Title": "Wilderness Falls",
+  "Date": "March 23 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d72"
+  },
+  "Title": "Home Before Nightfall",
+  "Date": "August 17 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d7f"
+  },
+  "Title": "Woodsman's Retreat",
+  "Date": "November 16 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d4a"
+  },
+  "Title": "Desert Hues",
+  "Date": "November 10 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d58"
+  },
+  "Title": "Evening at the Falls",
+  "Date": "February 23 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d78"
+  },
+  "Title": "Mountain Lake Falls",
+  "Date": "September 28 1993",
+  "Notes": " Special guest Steve Ross (Bob's son"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d7c"
+  },
+  "Title": "Pot O' Posies",
+  "Date": "October 26 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d86"
+  },
+  "Title": "Through the Window",
+  "Date": "January 4 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d65"
+  },
+  "Title": "Golden Glow of Morning",
+  "Date": "May 20 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d76"
+  },
+  "Title": "Light at the Summit",
+  "Date": "September 14 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d7a"
+  },
+  "Title": "Trapper's Cabin",
+  "Date": "October 12 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d84"
+  },
+  "Title": "A Copper Winter",
+  "Date": "December 21 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d4e"
+  },
+  "Title": "First Snow",
+  "Date": "December 15 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d67"
+  },
+  "Title": "A Warm Winter",
+  "Date": "June 1 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d75"
+  },
+  "Title": "Seasonal Progression",
+  "Date": "September 7 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d79"
+  },
+  "Title": "Cypress Creek",
+  "Date": "October 5 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d5d"
+  },
+  "Title": "Winter at the Farm",
+  "Date": "March 30 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d83"
+  },
+  "Title": "Wilderness Trail",
+  "Date": "December 14 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d61"
+  },
+  "Title": "Island Paradise",
+  "Date": "April 27 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d6e"
+  },
+  "Title": "Winter's Grace",
+  "Date": "July 20 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d80"
+  },
+  "Title": "Babbling Brook",
+  "Date": "November 23 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d48"
+  },
+  "Title": "Just Before the Storm",
+  "Date": "October 27 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d4d"
+  },
+  "Title": "Delightful Meadow Home",
+  "Date": "December 8 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d52"
+  },
+  "Title": "Snow Birch",
+  "Date": "January 12 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d4b"
+  },
+  "Title": "The Property Line",
+  "Date": "November 17 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d63"
+  },
+  "Title": "Splendor of a Snowy Winter",
+  "Date": "May 11 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d74"
+  },
+  "Title": "Autumn Oval",
+  "Date": "August 31 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d82"
+  },
+  "Title": "Winter's Peace",
+  "Date": "December 7 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d5a"
+  },
+  "Title": "Angler's Haven",
+  "Date": "March 9 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d70"
+  },
+  "Title": "Tranquil Seas",
+  "Date": "August 3 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d4f"
+  },
+  "Title": "Lake in the Valley",
+  "Date": "December 22 1992"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d5f"
+  },
+  "Title": "A Spectacular View",
+  "Date": "April 13 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d6c"
+  },
+  "Title": "The Old Weathered Barn",
+  "Date": "July 6 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d6d"
+  },
+  "Title": "Deep Forest Falls",
+  "Date": "July 13 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d77"
+  },
+  "Title": "Countryside Barn",
+  "Date": "September 21 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d7b"
+  },
+  "Title": "Storm on the Horizon",
+  "Date": "October 19 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d7d"
+  },
+  "Title": "A Perfect Winter Day",
+  "Date": "November 2 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d68"
+  },
+  "Title": "Under Pastel Skies",
+  "Date": "June 8 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d5e"
+  },
+  "Title": "Daisies at Dawn",
+  "Date": "April 6 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d73"
+  },
+  "Title": "Island in the Wilderness",
+  "Date": "August 24 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d55"
+  },
+  "Title": "Purple Mountain Range",
+  "Date": "February 2 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d56"
+  },
+  "Title": "Storm's a Comin'",
+  "Date": "February 9 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d64"
+  },
+  "Title": "Forest River",
+  "Date": "May 18 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d6f"
+  },
+  "Title": "Splendor of Autumn",
+  "Date": "July 27 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d7e"
+  },
+  "Title": "Aurora's Dance",
+  "Date": "November 9 1993"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d8c"
+  },
+  "Title": "Blue Ridge Falls",
+  "Date": "February 15 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d87"
+  },
+  "Title": "Home in the Valley",
+  "Date": "January 11 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d96"
+  },
+  "Title": "Balmy Beach",
+  "Date": "April 26 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d8a"
+  },
+  "Title": "A Cold Spring Day",
+  "Date": "February 1 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d98"
+  },
+  "Title": "In the Midst of Winter",
+  "Date": "May 10 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d94"
+  },
+  "Title": "Trail's End",
+  "Date": "April 12 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d8e"
+  },
+  "Title": "Before the Snowfall",
+  "Date": "March 1 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d91"
+  },
+  "Title": "Cabin in the Hollow",
+  "Date": "March 22 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d95"
+  },
+  "Title": "Evergreen Valley",
+  "Date": "April 19 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d88"
+  },
+  "Title": "Mountains of Grace",
+  "Date": "January 18 1994",
+  "Notes": " Guest Artist: Steve Ross"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d8f"
+  },
+  "Title": "Winding Stream",
+  "Date": "March 8 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d99"
+  },
+  "Title": "Wilderness Day",
+  "Date": "May 17 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d93"
+  },
+  "Title": "Bridge to Autumn",
+  "Date": "April 5 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d97"
+  },
+  "Title": "Lake at the Ridge",
+  "Date": "May 3 1994",
+  "Notes": " (featuring Steve Ross"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d8d"
+  },
+  "Title": "Reflections of Calm",
+  "Date": "February 22 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d92"
+  },
+  "Title": "View From Clear Creek",
+  "Date": "March 29 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d90"
+  },
+  "Title": "Tranquility Cove",
+  "Date": "March 15 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d8b"
+  },
+  "Title": "Evening's Glow",
+  "Date": "February 8 1994"
+},
+{
+  "_id": {
+    "$oid": "67082e9c74d46e1264dc8d89"
+  },
+  "Title": "Seaside Harmony",
+  "Date": "January 25 1994"
+}]

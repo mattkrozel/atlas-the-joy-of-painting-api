@@ -21,7 +21,7 @@ async function getEpisodeData() {
     await client.connect();
 
 
-    const episodeTitles = await client.db('bob_ross_api').collection('episodes').find({}, { projection: { title: 1 } }).toArray().map(e => e.Title.toLowerCase());
+    const episodeTitles = await client.db('bob_ross_api').collection('episodes').find({}, { projection: { Title: 1 } }).toArray().map(e => e.title.toLowerCase());
 
 
     const episodeData = new Map();
@@ -33,8 +33,8 @@ async function getEpisodeData() {
         subject_matter: []
       });
 
-      const episodeColors = await client.db('bob_ross_api').collection('colors').find({ painting_index: title }).toArray();
-      const episodeSubjects = await client.db('bob_ross_api').collection('subjects').find({ EPISODE: title }).toArray();
+      const episodeColors = await client.db('bob_ross_api').collection('colors').find({ painting_title: title }).toArray();
+      const episodeSubjects = await client.db('bob_ross_api').collection('subjects').find({ TITLE: title }).toArray();
 
       episodeData.get(title).colors.push(...episodeColors.map(c => c.colors));
       episodeData.get(title).subject_matter.push(...episodeSubjects.map(s => s.SUBJECT));

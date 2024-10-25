@@ -12,61 +12,57 @@ const client = new MongoClient(uri, {
         version: ServerApiVersion.v1,
         strict: true,
         deprecationErrors: true,
+        useNewUrlParser: true,
     }
 });
 
-async function   
- getEpisodeData() {
+async function getEpisodeData() {
   try {
     await client.connect();
 
-    const episodesData = await client.db('bob_ross_api').collection('episodes').find({}).project({ _id: 1, title: 1, date: 1 }).toArray();
-    const colorsData = await client.db('bob_ross_api').collection('colors').find({}).toArray();
-    const subjectsData = await client.db('bob_ross_api').collection('subjects').find({}).toArray();
 
-    return { episodes: episodesData, colors: colorsData, subjects: subjectsData };
+    const episodeTitles = await client.db('bob_ross_api').collection('episodes').find({}, { projection: { title: 1 } }).toArray().map(e => e.Title.toLowerCase());
+
+
+    const episodeData = new Map();
+
+
+    for (const title of episodeTitles) {
+      episodeData.set(title, {
+        colors: [],
+        subject_matter: []
+      });
+
+      const episodeColors = await client.db('bob_ross_api').collection('colors').find({ painting_index: title }).toArray();
+      const episodeSubjects = await client.db('bob_ross_api').collection('subjects').find({ EPISODE: title }).toArray();
+
+      episodeData.get(title).colors.push(...episodeColors.map(c => c.colors));
+      episodeData.get(title).subject_matter.push(...episodeSubjects.map(s => s.SUBJECT));
+    }
+
+    return episodeData;
   } catch (error) {
     console.error('Error fetching episode data:', error);
     throw error;
-    return null;
   } finally {
     await client.close();
   }
 }
 
-async function processEpisodes(data) {
+async function processEpisodes(episodeData, query) {
+  const filteredEpisodes = [];
 
-  
-  const processedEpisodes = [];
-  const episodeMap = new Map();
+  for (const [title, episode] of episodeData.entries()) {
+    const subjectMatch = query.subject ? episode.subject_matter.some(s => s.toLowerCase().includes(query.subject.toLowerCase())) : true;
+    const colorMatch = query.color ? query.color.split(',').every(color => episode.colors.some(c => c.includes(color))) : true;
+    const monthMatch = query.month ? (new Date(episode.date).getMonth() + 1 === parseInt(query.month)) : true;
 
-  
-  for (const episode of data.episodes) {
-    episodeMap.set(episode.title.toLowerCase(), episode);
-  }
-
-  for (const color of data.colors) {
-    const episodeTitle = color.painting_index.toLowerCase();
-    const episode = episodeMap.get(episodeTitle);
-    if (episode) {
-      episode.colors = episode.colors || [];
-      episode.colors.push(color.colors);
-      episode.hexCodes = episode.hexCodes || [];
-      episode.hexCodes.push(color.hex_code);
+    if (match === 'all' ? subjectMatch && colorMatch && monthMatch : subjectMatch || colorMatch || monthMatch) {
+      filteredEpisodes.push({ title, ...episode });
     }
   }
 
-  for (const subject of data.subjects) {
-    const episodeTitle = subject.EPISODE.toLowerCase();
-    const episode = episodeMap.get(episodeTitle);
-    if (episode) {
-      episode.subject_matter = episode.subject_matter || [];
-      episode.subject_matter.push(subject.SUBJECT);
-    }
-  }
-
-  processedEpisodes.push(...episodeMap.values());
-  return processedEpisodes;
+  return filteredEpisodes;
 }
 
 async function run() {
@@ -79,50 +75,25 @@ async function run() {
   }
 }
 
-run().catch(console.dir);   
-
+run().catch(console.dir);
 
 app.get('/episodes', async (req, res) => {
   try {
     await client.connect();
     const episodeData = await getEpisodeData();
-    if (!episodeData) { // Check if data retrieval failed in getEpisodeData
+    if (!episodeData) {
       return res.status(500).send('Error retrieving episode data');
     }
-  
-    const processedEpisodes = await processEpisodes(episodeData);
 
-    const { month, subject, color, match = 'all' } = req.query;
-    const filter = {};
+    const processedEpisodes = await processEpisodes(episodeData, req.query);
 
-    if (month) {
-      filter.month = parseInt(month);
-    }
-
-    if (subject) {
-      filter.subject_matter = { $regex: new RegExp(subject, 'i') };
-    }
-
-    if (color) {
-      filter.colors = { $all: color.split(',') }; 
-    }
-
-    const filteredEpisodes = processedEpisodes.filter(episode => {
-      const subjectMatch = subject ? episode.subject_matter.some(s => s.includes(subject)) : true; 
-      const colorMatch = color ? episode.colors.every(c => color.split(',').includes(c)) : true;
-      const monthMatch = filter.month ? (new Date(episode.date).getMonth() + 1 === parseInt(month)) : true;
-
-      return match === 'all' ? subjectMatch && colorMatch && monthMatch : subjectMatch || colorMatch || monthMatch; 
-  });
-
-  return res.json(filteredEpisodes);
-} catch (error) {
-  console.error('Error retrieving episodes:', error);
-  return res.status(500).send('Error retrieving episodes');
-}
+    return res.json(processedEpisodes);
+  } catch (error) {
+    console.error('Error retrieving episodes:', error);
+    return res.status(500).send('Error retrieving episodes');
+  }
 });
 
-
 app.listen(PORT, () => {
-console.log(`Server running at http://${hostname}:${PORT}/`);
+  console.log(`Server running at http://${hostname}:${PORT}/`);
 });
